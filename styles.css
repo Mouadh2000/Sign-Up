@@ -1,0 +1,55 @@
+body {
+    background-color: #0054ffe3;
+}
+div {
+    background-color: white;
+    margin-top: 35px;
+    margin-left: 515px;
+    margin-right: 515px;
+    border-radius: 5px;
+}
+hr {
+    margin-left: 40px;
+    margin-right:40px;
+    opacity: 0.7;
+}
+.login {
+    text-align: center;
+    background-color: #0054ffe3;
+    border-radius: 5px;
+    border-color: transparent;
+    color: white;
+    font-size: 18px;
+    margin-top: 11px;
+    margin-left: 40px;
+    width: 250px;
+    height: 40px;
+}
+.user {
+    position: absolute;
+    left: 564px;
+    top: 133px;
+}
+.email {
+    position: absolute;
+    left: 564px;
+    top: 183px;
+}
+.pass {
+    position: absolute;
+    left: 564px;
+    top: 233px;
+}
+.cpass {
+    position: absolute;
+    left: 564px;
+    top: 283px;
+}
+.inp {
+    opacity: 0.8;
+    margin-left:70px ;
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    outline: none;
+}
